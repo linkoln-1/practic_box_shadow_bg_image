@@ -30,7 +30,7 @@
 	background-size: cover;
 	padding: 30px;
 	height: auto;
-	transition: 5s;
+	/* transition: 5s; */
 	box-shadow: -3px 4px 14px 8px green;
 }
 
@@ -42,7 +42,7 @@
 	 background-size: cover;
 	padding: 30px;
 	height: auto;
-	transition: 1s;
+	/* transition: 1s; */
 	box-shadow: -3px 4px 14px 8px green;
 }
 
@@ -54,7 +54,7 @@
 	background-size: cover;
 	padding: 30px;
 	height: auto;
-	transition: 5s;
+	/* transition: 5s; */
 }
 
 .right-block:active {
@@ -65,5 +65,5 @@
 	background-size: cover;
 	padding: 30px;
 	height: auto;
-	transition: 5s;
+	/* transition: 5s; */
 }
