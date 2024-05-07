@@ -31,7 +31,7 @@
 	padding: 30px;
 	height: auto;
 	transition: 5s;
-	box-shadow: -3px 4px 14px 8px green;
+	box-shadow: -3px 4px 14px 8px blue;
 }
 
 .right-block:hover {
@@ -48,7 +48,7 @@
 
 .left-block:active  {
 	border-radius: 50px;
-	color: yellow;
+	color: red;
 	background: url("https://i.pinimg.com/originals/cb/ec/d3/cbecd3ef09c2fa8ae30c0ffddd7d29d3.jpg") 
 	no-repeat;
 	background-size: cover;
