@@ -24,7 +24,7 @@
 
 .left-block:hover  {
 	border-radius: 50px;
-	color: yellow;
+	color: red;
 	background: url("https://rare-gallery.com/uploads/posts/370598-4k-wallpaper.jpg") 
 	no-repeat;
 	background-size: cover;
@@ -36,7 +36,7 @@
 
 .right-block:hover {
 	border-radius: 50px;
-	color: yellow;
+	color: blue;
 	background: url("https://cdn.fishki.net/upload/post/201409/17/1305473/1bba5443b6d702eeff41c486f42922a5.jpg")
 	 no-repeat;
 	 background-size: cover;
