@@ -7,19 +7,19 @@
 	justify-content: space-between;
 }
 .left-block {
-	background: url("https://www.fonstola.ru/images/202004/fonstola.ru_381856.jpg")
+	background-color:black;
 	 no-repeat;
 	 background-size: cover;
 	 width: 500px;
 	 height: 500px;
-	 color: #fff;
+	 color: #c95bd5;
 }
 .right-block {
-	background: url("https://krasnodar.pannomd.ru/goods/or_6334.jpg") no-repeat;
+	background-color:black;
 	background-size: cover;
 	width: 500px;
 	height: 500px;
-	color: #fff;
+	color: #71df7f;
 }
 
 .left-block:hover  {
